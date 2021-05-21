@@ -32,7 +32,3 @@ Here are some ideas to get you started:
   <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
-
-### GitHub Stats ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=vfan0514&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfan0514&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&locale=cn" />
