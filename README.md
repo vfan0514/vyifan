@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm yifan</h2>
 <h4 align="center">A Programmer/Full-Stack Engineer/Magician</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yifan&margin-w=15" alt="yifan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyifan&margin-w=15" alt="vyifan" /></a> </p>
 
 <h3 align="left">💻 Languages and Tools</h3>
 <p>
@@ -17,6 +17,6 @@
 
 ### ✨ GitHub Stats
 
-<img align="" height="144px" src="https://github-readme-stats.vercel.app/api?username=yifan&show_icons=true&include_all_commits=true&line_height=21&locale=cn" /> <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=yifan" alt="yifan" height="144px" />
+<img align="" height="144px" src="https://github-readme-stats.vercel.app/api?username=vyifan&show_icons=true&include_all_commits=true&line_height=21&locale=cn" /> <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=vyifan" alt="vyifan" height="144px" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yifan&label=Profile%20views&color=0e75b6&style=flat" alt="yifan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyifan&label=Profile%20views&color=0e75b6&style=flat" alt="vyifan" /> </p>
