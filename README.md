@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm yifan</h2>
 <h4 align="center">A Programmer/Full-Stack Engineer/Magician</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyifan&margin-w=15" alt="vyifan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyifan&column=7" alt="vyifan" /></a> </p>
 
 <h3 align="left">💻 Languages and Tools</h3>
 <p>
