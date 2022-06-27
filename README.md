@@ -1,10 +1,10 @@
 <h2 align="center">🍭Hi, I'm y、👋</h2>
 <h4 align="center">A Programmer/Full-Stack Engineer/Magician</h4>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyifan&column=8" alt="vyifan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyifan&column=8" alt="vyifan" /></a> </p>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://github.com/vyifan/vyifan/blob/main/assets/github-contribution-grid-snake.svg" /></div>
+<div align="left"><img src="https://github.com/vyifan/vyifan/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 
 <h3>💻 Languages</h3>
 <p>
